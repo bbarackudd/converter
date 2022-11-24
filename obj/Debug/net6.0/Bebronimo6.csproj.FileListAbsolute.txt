@@ -1,0 +1,17 @@
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\bin\Debug\net6.0\Bebronimo6.exe
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\bin\Debug\net6.0\Bebronimo6.deps.json
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\bin\Debug\net6.0\Bebronimo6.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\bin\Debug\net6.0\Bebronimo6.dll
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\bin\Debug\net6.0\Bebronimo6.pdb
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.csproj.CopyComplete
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.dll
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\refint\Bebronimo6.dll
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.pdb
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\Bebronimo6.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\Bebronimo6\Bebronimo6\obj\Debug\net6.0\ref\Bebronimo6.dll
